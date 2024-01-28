@@ -125,6 +125,7 @@ Exercizes
 - [Structs](https://github.com/mauropelucchi/unibg_dev_courses_2023/blob/main/homeworks/5_structs.cpp)
 
 # Exams
+- Text: [20240117](https://github.com/mauropelucchi/unibg_dev_courses_2023/blob/main/exams/te20240117.pdf) 
 - [20151221](https://github.com/mauropelucchi/unibg_dev_courses_2023/blob/main/exams/20151221.cpp)
 - Text: [20200617](https://github.com/mauropelucchi/unibg_dev_courses_2023/blob/main/exams/te20200617.pdf) Solution: [20200617](https://github.com/mauropelucchi/unibg_dev_courses_2023/blob/main/exams/20200617.cpp)
 - Text: [20190222](https://github.com/mauropelucchi/unibg_dev_courses_2023/blob/main/exams/te20190222.pdf) Solution: [20190222](https://github.com/mauropelucchi/unibg_dev_courses_2023/blob/main/exams/20190222.cpp)
